@@ -1,0 +1,26 @@
+body {
+    background: url(../images/background.jpg) no-repeat center right fixed;
+    background-size: cover;
+    padding-top: 70px;
+}
+
+.navbar-default{
+    opacity: .9;
+}
+
+.panel {
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.navbar-default {
+    background: none;
+}
+.nav_bg {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-bottom: 1px solid #e7e7e7;
+    border-radius: 4px;
+}
+
+.navbar {
+    border: none;
+}
